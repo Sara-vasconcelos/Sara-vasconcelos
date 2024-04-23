@@ -1,7 +1,7 @@
 Olá eu sou Sara Vasconcelos 👋
 
 
-- 🔭 Fazendo Bootcamp FullStack Java | React 
+- 🔭 Fazendo Bootcamp FullStack Java | React na Generation
 - 🌱 Apaixonada por tecnologia e desafios
 <div style="display: inline_block"><br>
 <img align="center" alt="Sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
