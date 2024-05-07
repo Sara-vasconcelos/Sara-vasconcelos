@@ -2,7 +2,7 @@ Olá eu sou Sara Vasconcelos 👋
 
 
 - 🔭 Fazendo Bootcamp FullStack Java | React na Generation
-- 🌱 Apaixonada por tecnologia e desafios
+- 🌱 "Uma mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" - Albert Einstein
 <div style="display: inline_block"><br>
 <img align="center" alt="Sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
