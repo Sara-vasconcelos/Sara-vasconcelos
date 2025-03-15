@@ -1,7 +1,7 @@
 Olá eu sou Sara Vasconcelos 👋
 
 
-- 🔭 Desenvolvedora FullStack | Estágiaria no Itaú Unibanco | Cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Desenvolvedora FullStack | Estagiária no Itaú Unibanco | Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 "Uma mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" - Albert Einstein
 <div style="display: inline_block"><br>
 <img align="center" alt="Sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
